@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/floatme/integrations
+- https://n8n.io/integrations/floatme/
+- https://composio.dev/toolkits/floatme
+- https://monid.ai/tools/floatme
+checked:
+- https://composio.dev/toolkits/floatme
+- https://monid.ai/tools/floatme
+- https://n8n.io/integrations/floatme/
+- https://zapier.com/apps/floatme/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
